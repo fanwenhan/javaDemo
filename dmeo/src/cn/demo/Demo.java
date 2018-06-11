@@ -9,5 +9,6 @@ package cn.demo;
 public class Demo {
 	public static void main(String[] args) {
 		System.out.println("你好这个世界");
+		System.out.println("你好这个世界2");
 	}
 }
